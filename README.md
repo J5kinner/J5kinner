@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**J5kinner/J5kinner** is a ✨ _special_ ✨ egg `README.md` 
+**Jonah 5kinner** is a ✨ _Software Engineer_ ✨ from Macquarie University Specialising in `web tech` 
 
 - 🔭 I’m currently working on Building a website for MQ Widening Participation Unit called Leap Imagine That
 - 🌱 I’m currently learning ReactJS and web hosting while studying software engineering 
