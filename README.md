@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Building a website for MQ Widening Participation Unit called Leap Imagine That https://leapimaginethat.web.app/CareerWheelPage
 - 🌱 I’m currently learning ReactJS and web hosting while studying software engineering 
 - 👯 I’m looking to collaborate on any web projects
-- 💬 Ask me about Building websites and anything
+- 💬 Ask me about Building websites
 - 📫 How to reach me: jonah.lee.skinner@gmail.com
 - ⚡ Fun fact: I was a lifeguard at Sydney Olympic Park for 2 years 
 
