@@ -27,5 +27,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=J5kinner&show_icons=true&locale=en&layout=compact" alt="jJ5kinner" /></p>
     
-[![Jonah's GitHub stats](https://github-readme-stats.vercel.app/api?username=j5kinner&show_icons=true&theme=radical)](https://github.com/j5kinner)
+[![Jonah's GitHub stats](https://github-readme-stats.vercel.app/api?username=j5kinner&show_icons=true)](https://github.com/j5kinner)
 
