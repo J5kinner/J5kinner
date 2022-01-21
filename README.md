@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning ReactJS while doing my software engineering thesis
 - 💬 Talk to me about React or JavaScript projects
 - 📫 How to reach me: jonah.lee.skinner@gmail.com 
-- 🎯 Aiming for a front-end Software engineering internship
+- 🎯 Aspiring Frontend Software Engineer
 - ⚡ Fun fact: I was a lifeguard at Sydney Olympic Park for 2 years 
 
 <p align="left"> 
