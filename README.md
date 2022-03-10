@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning ReactJS while doing my software engineering thesis
 - 💬 Talk to me about React or JavaScript projects
 - 📫 How to reach me: jonah.lee.skinner@gmail.com 
-- 🎯 Aspiring Frontend Software Engineer
+- 🎯 Aspiring Software Engineer
 - ⚡ Fun fact: I was a lifeguard for 3 years
 
 <p align="left"> 
