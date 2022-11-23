@@ -2,11 +2,11 @@
 ### Hi there 👋
 
 
-**Jonah 5kinner** is a ✨ _Software Engineering Intern_ ✨ from Macquarie University Specialising in `web tech` 
+**Jonah 5kinner** is a ✨ _Software Engineering Intern_ ✨ from Macquarie University Specialising in `Web and Mobile Tech` 
 
-- 🔭 I’m currently working on Building a website which converts HTML files style tags https://anti-heresy-sheets.web.app/
+- 🔭 I’m currently working on Building a Progressive Web Application using CapacitorJS to build Android and iOS Apps
 - 🌱 I’m currently learning ReactJS while doing my software engineering thesis on mobile GIS for FAIMS 3.0
-- 💬 Talk to me about React or JavaScript projects
+- 💬 Talk to me about React or Android projects
 - 📫 How to reach me: jonah.lee.skinner@gmail.com 
 - 🎯 Aspiring Software Engineer
 - ⚡ Fun fact: I was a lifeguard for 3 years
