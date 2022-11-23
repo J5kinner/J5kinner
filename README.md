@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 
-**Jonah 5kinner** is a ✨ _Software Engineering Student_ ✨ from Macquarie University Specialising in `web tech` 
+**Jonah 5kinner** is a ✨ _Software Engineering Intern_ ✨ from Macquarie University Specialising in `web tech` 
 
 - 🔭 I’m currently working on Building a website which converts HTML files style tags https://anti-heresy-sheets.web.app/
 - 🌱 I’m currently learning ReactJS while doing my software engineering thesis on mobile GIS for FAIMS 3.0
