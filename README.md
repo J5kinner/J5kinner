@@ -4,8 +4,7 @@
 
 **Jonah 5kinner** is a ✨ _Software Engineering Intern_ ✨ from Macquarie University Specialising in `Web and Mobile Tech` 
 
-- 🔭 I’m currently working on Building a Progressive Web Application using CapacitorJS to build Android and iOS Apps
-- 🌱 I’m currently learning ReactJS while doing my software engineering thesis on mobile GIS for FAIMS 3.0
+- 🌱 I’m currently learning Android technologies like Kotlin and Jetpack Compose
 - 💬 Talk to me about React or Android projects
 - 📫 How to reach me: jonah.lee.skinner@gmail.com 
 - 🎯 Aspiring Software Engineer
@@ -26,7 +25,7 @@
       <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
       <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /> </a> </p>
 <!-- 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=J5kinner&show_icons=true&locale=en&layout=compact" alt="jJ5kinner" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=J5kinner&show_icons=true&locale=en&layout=compact" alt="J5kinner" /></p>
     
 [![Jonah's GitHub stats](https://github-readme-stats.vercel.app/api?username=j5kinner&show_icons=true)](https://github.com/j5kinner)
  -->
