@@ -1,7 +1,5 @@
+<img align="right" src="https://github.com/J5kinner/J5kinner/blob/main/devcard.svg" width="300" alt="Jonah Skinner's Dev Card"/></a>
 ### Hi there 👋 <a href="https://app.daily.dev/DailyDevTips">
-
- <img align="right" src="https://github.com/J5kinner/J5kinner/blob/main/devcard.svg" width="300" alt="Jonah Skinner's Dev Card"/></a>
-
 **Jonah 5kinner** is a ✨ _Software Engineering Intern_ ✨ from Macquarie University Specialising in `Web and Mobile Tech`
 
 - 🌱 Currently learning Android Kotlin and Jetpack Compose
@@ -33,7 +31,6 @@
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
                 alt="express" width="40" height="40" /> </a>
 </p>
-
 <!-- 
 [![Jonah's GitHub stats](https://github-readme-stats.vercel.app/api?username=j5kinner&show_icons=true)](https://github.com/j5kinner)
  -->
