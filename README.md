@@ -31,6 +31,3 @@
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
                 alt="express" width="40" height="40" /> </a>
 </p>
-<!-- 
-[![Jonah's GitHub stats](https://github-readme-stats.vercel.app/api?username=j5kinner&show_icons=true)](https://github.com/j5kinner)
- -->
