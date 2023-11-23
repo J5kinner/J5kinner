@@ -1,12 +1,10 @@
-<img align="right" src="https://github.com/J5kinner/J5kinner/blob/main/devcard.svg" width="300" alt="Jonah Skinner's Dev Card"/></a>
-### Hi there 👋 <a href="https://app.daily.dev/DailyDevTips">
-**Jonah 5kinner** is a ✨ _Software Engineering Intern_ ✨ from Macquarie University Specialising in `Web and Mobile Tech`
+**Jonah 5kinner** is a ✨ _Software Engineer_ ✨ from Tyro Payments specialising in `Android`
 
-- 🌱 Currently learning Android Kotlin and Jetpack Compose
+- 🌱 Currently learning Android Kotlin, Jetpack Compose and MVI
 - 💬 Talk to me about React or Android projects
 - 📫 How to reach me: jonah.lee.skinner@gmail.com
-- 🎯 Aspiring Android Software Engineer
-- ⚡ Fun fact: I was a lifeguard for 3 years
+- 🎯 Aspiring Senior Android Software Engineer
+- ⚡ Fun fact: Lifeguarded for 3 years
 
 <p align="left">
     <a href="https://developer.android.com/courses" target="_blank"> <img
@@ -26,8 +24,4 @@
     <a href="https://reactjs.org/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="40" height="40" /> </a>
-    <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg"
-            alt="reactnative" width="40" height="40" /> <a href="https://expressjs.com" target="_blank"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-                alt="express" width="40" height="40" /> </a>
 </p>
