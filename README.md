@@ -2,7 +2,7 @@
 
 - 🌱 Currently learning Android Kotlin, Jetpack Compose and MVI
 - 💬 Talk to me about React or Android projects
-- 📫 How to reach me: jonah.lee.skinner@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/jonah-skinner/
 - 🎯 Aspiring Senior Android Software Engineer
 - ⚡ Fun fact: Lifeguarded for 3 years
 
