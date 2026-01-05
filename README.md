@@ -1,4 +1,4 @@
-**Jonah 5kinner** is a ✨ _Software Engineer_ ✨ from Tyro Payments specialising in `Android`
+**Jonah 5kinner** is a ✨ _Android Engineer_ ✨ from Bound Interactive specialising in `Android`
 
 - 🌱 Currently learning Android Kotlin, Jetpack Compose and MVI
 - 💬 Talk to me about React or Android projects
