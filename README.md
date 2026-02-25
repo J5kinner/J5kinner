@@ -1,7 +1,5 @@
 **Jonah 5kinner** is a ✨ _Android Engineer_ ✨ from Bound Interactive specialising in `Android`
 
-- 🌱 Currently learning Android Kotlin, Jetpack Compose and MVI
-- 💬 Talk to me about React or Android projects
 - 📫 How to reach me: https://www.linkedin.com/in/jonah-skinner/
 - 🎯 Aspiring Senior Android Software Engineer
 - ⚡ Fun fact: Lifeguarded for 3 years
