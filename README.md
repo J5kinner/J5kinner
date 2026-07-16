@@ -1,4 +1,4 @@
-**Jonah 5kinner** is a ✨ _Android Software Engineer_ ✨ from Bound Interactive specialising in `Android`
+**Jonah 5kinner** is a ✨ _Android Software Engineer_ ✨ from Bound Interactive
 
 - 📫 How to reach me: https://www.linkedin.com/in/jonah-skinner/
 - 🎯 Aspiring Automotive Engineer 🏎️
